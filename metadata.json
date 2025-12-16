@@ -1,0 +1,5 @@
+{
+  "name": "MailBlast AI - Hostinger Edition",
+  "description": "A powerful email marketing tool designed for Hostinger mail users. Import contacts from CSV, generate AI-powered templates with Gemini, and simulate bulk sending campaigns.",
+  "requestFramePermissions": []
+}
